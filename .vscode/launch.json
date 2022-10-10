@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open biodata.html",
-            "file": "d:\\SIB\\latihann\\biodata.html"
+            "name": "Open index.html",
+            "file": "d:\\SIB\\latihann\\index.html"
         }
     ]
 }
